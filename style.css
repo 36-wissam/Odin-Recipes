@@ -1,3 +1,4 @@
+/* center all the elemants & add  RepeatBgImg*/
 body{  
     background-image: url("./img/RepeatBgImg.svg");
     margin: 0;
@@ -9,11 +10,15 @@ body{
 }
 
 
+/* center all the img*/
 
 .MainLogo{
   display: block;
   margin: 0 auto;
 }
+
+/* Change paragraph,header1 colore's */
+
 p,h1{
     font-weight: bolder;
     color: antiquewhite;
@@ -21,6 +26,9 @@ p,h1{
     font-size: 30px;
     
 }
+
+/* Change back btn style */
+
 .button-link {
   display: block;
   padding: 10px 20px;
