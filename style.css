@@ -1,0 +1,39 @@
+body{  
+    background-image: url("./img/RepeatBgImg.svg");
+    margin: 0;
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+
+
+    
+}
+
+
+
+.MainLogo{
+  display: block;
+  margin: 0 auto;
+}
+p,h1{
+    font-weight: bolder;
+    color: antiquewhite;
+    background-color: #92592b;
+    font-size: 30px;
+    
+}
+.button-link {
+  display: block;
+  padding: 10px 20px;
+  margin: 40px;
+  background-color: #947962;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  border: none;
+}
+
+.button-link:hover {
+  background-color: #a34900;
+}   
